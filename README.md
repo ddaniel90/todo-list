@@ -33,5 +33,5 @@
 
 # _Author_
 
-- Tushar Nankani (ddaniel, ddaniel.andrei@outlook.com)
+- Daniel Andrei (ddaniel, ddaniel.andrei@outlook.com)
   - [LinkedIn](https://www.linkedin.com/in/dnandrei/)
